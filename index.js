@@ -18,7 +18,7 @@ class ContaCorrente{
 const cliente1 = new cliente();
 const cliente2 = new cliente();
 
-cliente1.nome = "Ricardo";
+cliente1.nome = "Ricardo Silva";
 cliente1.cpf =  12345665413;
 cliente1.rg = 124563152;
 
